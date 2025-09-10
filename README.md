@@ -1,6 +1,16 @@
-## Trabajo integrador: ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+#👋 Hola, me llamo Guillermo 👋
 
-Trabajo en conjunto con otros grupos con los cuales se está desarrollando y optimizando la aplicación.
+Soy un desarrollador de sistemas y redes enfocado en el cifrado de datos y la ciberseguridad.
+Actualmente estoy en proceso de crecimiento, por lo que se irán subiendo proyectos a medida que pase el tiempo. 
+
+# Habilidades
+
+Comprensión de entornos linux y windows, uso de cisco packet tracer de forma fluida y entendimiento en lenguajes de marcas, php y javascript.
+
+# Proyectos destacados
+
+
+
 <!--
 **IzquierdoSystem/IzquierdoSystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
