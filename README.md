@@ -5,7 +5,11 @@ Actualmente estoy en proceso de crecimiento, por lo que se irán subiendo proyec
 
 # Habilidades
 
-Comprensión de entornos linux y windows, uso de cisco packet tracer de forma fluida y entendimiento en lenguajes de marcas, php y javascript.
+- Comprensión de entornos linux y windows 
+- Uso de cisco packet tracer
+- entendimiento en lenguajes de marcas, php y javascript
+- Gestión de bases de datos
+- Gestión de AWS
 
 # Proyectos destacados
 
