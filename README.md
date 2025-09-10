@@ -1,4 +1,6 @@
 ## Trabajo integrador: ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
+Trabajo en conjunto con otros grupos con los cuales se ha desarrollado y optimizado la aplicación.
 <!--
 **IzquierdoSystem/IzquierdoSystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
