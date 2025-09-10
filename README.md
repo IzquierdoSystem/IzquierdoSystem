@@ -13,6 +13,12 @@ Actualmente estoy en proceso de crecimiento, por lo que se irán subiendo proyec
 
 # Proyectos destacados
 
+# Contacto
+
+- E-mail: guille96g@hotmail.com
+- linkedin: https://www.linkedin.com/public-profile/settings
+
+
 
 
 <!--
